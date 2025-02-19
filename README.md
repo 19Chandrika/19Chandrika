@@ -15,7 +15,7 @@
   - Communication & Critical Thinking  
   - Problem Solving & Project Planning
 - 📜 **Certificates**: - Tata Cybersecurity Analyst Job Simulation 
-  [View Certificate]
+  [View Certificate]gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_2jpWKfQSD8jCCCBQm_1736325774838_completion_certificate (1) (2) (1).pdf
 
 ## 📫 Connect With Me  
 ✉️ [Email](chandrikakoppad@gmail.com)
