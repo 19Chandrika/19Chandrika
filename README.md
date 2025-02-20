@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandrika Koppad (@19Chandrika)
+# 👋 Hi, I'm Chandrika Koppad
 🔒 **Aspiring Cybersecurity Analyst** | 🎨 Digital Artist | 💻 Tech Enthusiast  
 
 ## 🚀 About Me  
