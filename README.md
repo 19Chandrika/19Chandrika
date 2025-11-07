@@ -2,8 +2,8 @@
 🔒 **Aspiring Cybersecurity Analyst** | 🎨 Digital Artist | 💻 Tech Enthusiast  
 
 ## 🚀 About Me  
-- 🎓 **BCA Student**
-- 🌱 Currently learning **Cybersecurity, IAM, Python, and Java**  
+- 🎓 **MCA Student**
+- 🌱 Currently learning **Cybersecurity, DS, Python, and Java**  
 - 🏆 Completed **Tata Cybersecurity Analyst Job Simulation** on Forage  
 - 🎨 Accepting **Art Commissions** | Check my portfolio  
 
