@@ -16,6 +16,6 @@
   - Problem Solving & Project Planning
 ## 📜 **Certificates:**  
 - [Tata Cybersecurity Analyst Job Simulation Certificate](https://github.com/19Chandrika/TCS-Cyber-security-certificate-/raw/main/TCS%20Cyber%20Security%20Certificate%20(4).pdf)
-(https://drive.google.com/file/d/1TNG_p3jO16zKIXs-vc2R31V2EARDZiKV/view?usp=drivesdk)
+- (https://drive.google.com/file/d/1TNG_p3jO16zKIXs-vc2R31V2EARDZiKV/view?usp=drivesdk)
 ## 📫 Connect With Me  
 ✉️ [Email](chandrikakoppad@gmail.com)
