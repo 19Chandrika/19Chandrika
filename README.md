@@ -1,4 +1,4 @@
-# Hi, I'm Chandrika Koppad
+# Hi, I'm Chandrika Malatesh Koppad
 **Aspiring Cybersecurity Analyst** |  Digital Artist | 💻 Tech Enthusiast  
 
 ## About Me  
