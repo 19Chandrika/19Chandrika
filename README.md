@@ -1,5 +1,5 @@
 # Hi, I'm Chandrika Koppad
-**Aspiring Cybersecurity Analyst** | 🎨 Digital Artist | 💻 Tech Enthusiast  
+**Aspiring Cybersecurity Analyst** |  Digital Artist | 💻 Tech Enthusiast  
 
 ## About Me  
 - **MCA Student**
