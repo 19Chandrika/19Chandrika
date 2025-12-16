@@ -3,7 +3,7 @@
 
 ## About Me  
 - **MCA Student**
-- Currently learning **Cybersecurity, DS, and Java**  
+- Currently learning **Cybersecurity, DS, and Java, DBMS**  
 - Completed **Tata Cybersecurity Analyst Job Simulation** on Forage  
 -Accepting **Art Commissions** |
 
