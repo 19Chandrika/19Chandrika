@@ -9,7 +9,7 @@
 ## Skills & Certifications  
 - Identity & Access Management (IAM)  
 - Cybersecurity Principles & Risk Assessment  
-- Documentation & Presentation Skills
+- Documentation 
 - **Soft Skills & Problem-Solving**  
   - Communication & Critical Thinking  
   - Problem Solving & Project Planning
