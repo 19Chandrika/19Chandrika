@@ -1,8 +1,7 @@
 # Hi, I'm Chandrika Malatesh Koppad
-**Aspiring Cybersecurity Analyst** |  Digital Artist | 💻 Tech Enthusiast  
+** MCA | Aspiring Cybersecurity Analyst** |  Digital Artist | 💻 Tech Enthusiast  
 
 ## About Me  
-- **MCA Student**
 - Learning **Cybersecurity, DS, and Java, DBMS**  
 - Completed **Tata Cybersecurity Analyst Job Simulation** on Forage  
 
