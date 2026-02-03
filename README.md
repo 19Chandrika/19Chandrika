@@ -3,7 +3,8 @@
 
 ## About Me  
 - Learning **Cybersecurity, DS, and Java, DBMS**  
-- Completed **Tata Cybersecurity Analyst Job Simulation** on Forage  
+- Completed **Tata Cybersecurity Analyst Job Simulation** on Forage. 
+- Completed a 10-hour Cybersecurity Workshop by TechBairn Research, gaining hands-on exposure to core cybersecurity concepts.
 
 ## Skills & Certifications  
 - Identity & Access Management (IAM)  
